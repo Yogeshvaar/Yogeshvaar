@@ -290,12 +290,18 @@ print(me.motto())
 <!--                    SNAKE ANIMATION (optional)                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📅 Contribution Calendar</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/70A5FD/Yogeshvaar" alt="Yogeshvaar's GitHub Contribution Chart"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation"
+      src="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
-
 <!-- 
   ✅ OPTIONAL: To re-enable the snake animation later, create this file:
   .github/workflows/snake.yml  — see setup instructions in the README notes.
