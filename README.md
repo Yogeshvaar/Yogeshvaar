@@ -152,7 +152,7 @@ print(me.motto())
 <h2 align="center">🏆 Trophy Wall</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshvaar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Yogeshvaar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
 </p>
 
 <br/>
@@ -294,18 +294,11 @@ print(me.motto())
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation"
-      src="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/Yogeshvaar/Yogeshvaar/output/github-contribution-grid-snake.svg"/>
   </picture>
 </p>
-<!-- 
-  ✅ OPTIONAL: To re-enable the snake animation later, create this file:
-  .github/workflows/snake.yml  — see setup instructions in the README notes.
--->
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                    FOOTER WAVE                                     -->
